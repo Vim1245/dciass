@@ -14,3 +14,4 @@ sentence-transformers
 typing-extensions
 mcp
 google-genai
+supabase
