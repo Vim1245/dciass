@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+ollama
+crewai
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-ollama
+chromadb
+sentence-transformers
+typing-extensions
+mcp
+google-genai

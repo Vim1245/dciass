@@ -1,0 +1,11 @@
+DCI Customer Support Policy
+
+1. Customer support is available from Monday to Saturday.
+
+2. Support requests should include the customer name and order number.
+
+3. Urgent damaged-product complaints should be reviewed first.
+
+4. A support ticket must be created for unresolved customer complaints.
+
+5. Customers can request an update using their support ticket ID.
